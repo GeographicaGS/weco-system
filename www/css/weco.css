@@ -1,0 +1,21 @@
+/*!
+ * Bootstrap v2.3.2
+ *
+ * Copyright 2013 Twitter, Inc
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Designed and built with all the love in the world by @mdo and @fat.
+ */
+.container{ border-bottom:1px solid #999; margin-bottom:20px;}
+.emailTop{ margin-top:12px}
+.row{ padding-bottom:20px;}
+header{ padding-top:20px;}
+header .span2{ margin-bottom:20px;}
+.cortes{ margin-top:20px;}
+.descriptionProduct{ margin-top:20px;}
+.direccion{border-left: 1px solid #999; padding-left:20PX; padding-bottom:64px;}
+.logoP{ margin-right:5px;}
+.carousel-inner img{ width:820px; margin: 0 auto;}
+
+footer .container { margin-top:30px; border-bottom:NONE;}
